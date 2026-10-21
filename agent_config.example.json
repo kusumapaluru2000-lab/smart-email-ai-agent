@@ -1,0 +1,12 @@
+{
+  "agent_name": "Smart Email AI Agent",
+  "email_provider": "Gmail",
+  "automation_platform": "Make",
+  "trigger": "Watch emails",
+  "ai_action": "Generate reply draft",
+  "final_action": "Create a draft email",
+  "auto_send": false,
+  "human_approval_required": true,
+  "recommended_initial_scope": "Test label or selected low-risk emails",
+  "notes": "Reference configuration only; not a directly importable Make blueprint."
+}
